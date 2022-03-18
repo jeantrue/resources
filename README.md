@@ -19,7 +19,9 @@ Title | Description
 [30 CSS Selectors by Tutplus](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048/) | I find myself using this handy list of the 30 most important CSS selectors from Tutplus all the time.
 [Clippy](https://bennettfeely.com/clippy/) | A small tool to help you using the new and powerful clip-path property.
 [CSS easing functions](https://easings.net/) | An amazing collection of easing functions to be used in CSS transitions and animations.
-
+[Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) | A mostly reasonable approach to CSS and Sass
+[Airbnb CSS-in-JavaScript Style Guide
+](https://github.com/airbnb/javascript/tree/master/css-in-javascript) | A mostly reasonable approach to CSS-in-JavaScript
 ## Javascript Resources
 Title | Description
 :-- | :--: |
@@ -29,6 +31,8 @@ Title | Description
 [DOM Manipulation Reference](https://youmightnotneedjquery.com/) | Called "You Might Not Need jQuery", but I use this as a complete DOM manipulation reference.
 [Principles of Writing Good JavaScript](https://github.com/rwaldron/idiomatic.js) | it's good to have a style guide to write better code.
 [JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/) | For more advanced developers: learn all common JavaScript design patterns. Perfect reference.
+[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) | mostly reasonable approach to JavaScript
+[Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react) A mostly reasonable approach to React and JSX
 
 
 
