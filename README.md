@@ -1,5 +1,5 @@
 # Resources
-[HTML](#html-5-resources) | [CSS](#css-resources) | [JS](#javascript-resources) | [Node.js](#) | [Go(Go-lang)](#)
+[HTML](#html-5-resources) | [CSS](#css-resources) | [JS](#javascript-resources) | [Node.js](#) | [Go(Golang)](#)
 
 [Fonts](#) | [Color](#) | [Images](#) | [Icons](#) | [Design](#) | [Blogs](#) | [Speed](#) | 
 
