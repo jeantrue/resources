@@ -19,5 +19,8 @@ Title | Description
 [CSS easing functions](https://easings.net/) | An amazing collection of easing functions bo be used in CSS transitions and animations.
 
 
+Ref by Jonas Schmedtmann, Angela Yu
+
+
 
 
