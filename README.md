@@ -1,5 +1,5 @@
 # Resources
-[HTML](#html-5-resources) | [CSS](#css-resources) | [Javascript](#javascript-resources)
+[HTML](#html-5-resources) | [CSS](#css-resources) | [JS](#javascript-resources) | [Fonts](#) | [Color](#) | [Images](#) | [Icons](#) | [Design](#) | [Blogs](#) | [Speed](#) | [Node.js](#) |
 
 
 This is a resources list for hand-crafting
@@ -32,7 +32,7 @@ Title | Description
 
 
 
-Ref by Jonas Schmedtmann, Angela Yu
+Ref by Angela Yu, Jonas Schmedtmann
 
 
 
