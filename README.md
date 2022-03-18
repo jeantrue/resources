@@ -20,8 +20,7 @@ Title | Description
 [Clippy](https://bennettfeely.com/clippy/) | A small tool to help you using the new and powerful clip-path property.
 [CSS easing functions](https://easings.net/) | An amazing collection of easing functions to be used in CSS transitions and animations.
 [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) | A mostly reasonable approach to CSS and Sass
-[Airbnb CSS-in-JavaScript Style Guide
-](https://github.com/airbnb/javascript/tree/master/css-in-javascript) | A mostly reasonable approach to CSS-in-JavaScript
+[Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript) | A mostly reasonable approach to CSS-in-JavaScript
 ## Javascript Resources
 Title | Description
 :-- | :--: |
@@ -32,7 +31,7 @@ Title | Description
 [Principles of Writing Good JavaScript](https://github.com/rwaldron/idiomatic.js) | it's good to have a style guide to write better code.
 [JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/) | For more advanced developers: learn all common JavaScript design patterns. Perfect reference.
 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) | mostly reasonable approach to JavaScript
-[Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react) A mostly reasonable approach to React and JSX
+[Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react) | A mostly reasonable approach to React and JSX
 
 
 
