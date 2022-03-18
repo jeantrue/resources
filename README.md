@@ -18,6 +18,17 @@ Title | Description
 [Clippy](https://bennettfeely.com/clippy/) | A small tool to help you using the new and powerful clip-path property.
 [CSS easing functions](https://easings.net/) | An amazing collection of easing functions bo be used in CSS transitions and animations.
 
+## Javascript Resources
+Title | Description
+:-- | :--: |
+[JavaScript Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) | Another reference by MDN, this one is for JavaScript. This is pretty advanced stuff.
+[JavaScript Operator Precedence Table](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence) | Very handy cheatsheet to determine which JavaScript operators are evaluated first.
+[JavaScript Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events) | Handy reference list of all DOM events with explanations, nicely categorized.
+[DOM Manipulation Reference](https://youmightnotneedjquery.com/) | Called "You Might Not Need jQuery", but I use this as a complete DOM manipulation reference.
+[Principles of Writing Good JavaScript](https://github.com/rwaldron/idiomatic.js) | While I don't follow this 100%, it's good to have a style guide to write better code.
+[JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/) | For more advanced developers: learn all common JavaScript design patterns. Perfect reference.
+
+
 
 Ref by Jonas Schmedtmann, Angela Yu
 
