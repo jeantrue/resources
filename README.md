@@ -36,6 +36,17 @@ Title | Description
 [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react) | A mostly reasonable approach to React and JSX
 
 
+## Javascript Resources
+Title | Description
+:-- | :--: |
+[Google Fonts](https://fonts.google.com/) | The #1 resource for free and easy-to-use webfonts. Has a huge library of fonts.
+[Fontsquirrel](https://www.fontsquirrel.com/) | The best, 100% free fonts for commercial use. Another well-known huge font library.
+[The 100 best free fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380) | List of free fonts, from vintage-inspired typefaces to slab serifs, for a range of projects.
+[A Pocket Guide to Typography](http://www.typogui.de/) | Amazing resource to learn about typography. Learn typography basics in less than 30 minutes.
+[]() | 
+[]() | 
+
+
 
 Ref by Airbnb, Angela Yu, Jonas Schmedtmann
 
