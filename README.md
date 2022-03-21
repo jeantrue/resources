@@ -49,7 +49,7 @@ Title | Description
 []() | 
 
 
-##Color
+## Color
 Title | Description
 :-- | :--: |
 [Open Color](https://yeun.github.io/open-color/) | An open-source color scheme, optimized for UI. My go-to resource to choose colors from scratch.
