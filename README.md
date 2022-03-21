@@ -1,7 +1,7 @@
 # Resources
-[HTML](#html-5-resources) | [CSS](#css-resources) | [JS](#javascript-resources) | [Node.js]() | [Go(Golang)]()
+[HTML](#html-5-resources) | [CSS](#css-resources) | [JS](#javascript-resources) | [Node.js] | [Go(Golang)]
 
-[Fonts](#fonts-resources) | [Color](#color) | [Images]() | [Icons]() | [Design]() | [Blogs]() | [Speed]() | 
+[Fonts](#fonts-resources) | [Color](#color) | [Images] | [Icons] | [Design] | [Blogs] | [Speed] | 
 
 
 This is a resources list for hand-crafting
