@@ -1,7 +1,7 @@
 # Resources
 [HTML](#html-5-resources) | [CSS](#css-resources) | [JS](#javascript-resources) | [Node.js](#) | [Go(Golang)](#)
 
-[Fonts](#) | [Color](#) | [Images](#) | [Icons](#) | [Design](#) | [Blogs](#) | [Speed](#) | 
+[Fonts](#fonts-resources) | [Color](#) | [Images](#) | [Icons](#) | [Design](#) | [Blogs](#) | [Speed](#) | 
 
 
 This is a resources list for hand-crafting
@@ -38,7 +38,7 @@ Title | Description
 [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react) | A mostly reasonable approach to React and JSX
 
 
-## FONTS AND TYPOGRAPHY TOOLS
+## FONTS Resources
 Title | Description
 :-- | :--: |
 [Google Fonts](https://fonts.google.com/) | The #1 resource for free and easy-to-use webfonts. Has a huge library of fonts.
