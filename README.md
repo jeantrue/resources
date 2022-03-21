@@ -57,7 +57,6 @@ Title | Description
 [Flat UI Colors](https://flatuicolors.com/) | A good starting point for choosing a flat design color for your next project.
 [Material Palette](https://www.materialpalette.com/) | Yet another set of colors, inspired in material design. Generate and download your palette.
 [Colorhunt Palettes](https://www.colorhunt.co/) | Don't know what colors to use for your website? Colorhunt helps you with beautiful color palettes.
-
 [UI Gradients](https://uigradients.com/) | Collection of beautiful color gradients for you to choose from and export to your project.
 [Paletton](http://paletton.com/) | A very popular tool which allows you to create color combinations that play well together.
 [Tint and Shade Generator](https://maketintsandshades.com/) | Easily create lighter and darker versions of any base color. Perfect for hovers, borders and gradients.
