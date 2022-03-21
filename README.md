@@ -2,7 +2,7 @@
 
 [HTML](#html-5-resources) | [CSS](#css-resources) | [JS](#javascript-resources) | [Node.js] | [Go(Golang)]
 
-[Fonts](#fonts-resources) | [Color](#color) | [Images] | [Icons] | [Design] | [Blogs] | [Speed] |
+[Fonts](#fonts-and-typography-tools) | [Color](#great-colors-and-tools) | [Images](#images-and-videos) | [Icons](#icons-and-tools) | [Design](#find-design-inspiration) | [Blogs](#popular-blogs--communities) | [Speed] |
 
 This is a resources list for hand-crafting
 
@@ -38,7 +38,7 @@ This is a resources list for hand-crafting
 | [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)                                                                   |                           mostly reasonable approach to JavaScript                            |
 | [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)                                                  |                         A mostly reasonable approach to React and JSX                         |
 
-## FONTS Resources
+## FONTS AND TYPOGRAPHY TOOLS
 
 | Title                                                                                                                              |                                         Description                                          |
 | :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------: |
@@ -49,7 +49,7 @@ This is a resources list for hand-crafting
 | []()                                                                                                                               |
 | []()                                                                                                                               |
 
-## Color
+## GREAT COLORS AND TOOLS
 
 | Title                                                              |                                               Description                                                |
 | :----------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------: |
@@ -78,10 +78,48 @@ This is a resources list for hand-crafting
 | [Random User Generator](https://randomuser.me/) |           Generate random user data, including photos. Like Lorem Ipsum, but for people.            |
 | [Coverr](https://coverr.co/)                    |    Best resource for beautiful and free videos about every imaginable topic, easily searchable.     |
 
+## ICONS AND TOOLS
+
+| Title                                           |                                                Description                                                 |
+| :---------------------------------------------- | :--------------------------------------------------------------------------------------------------------: |
+| [Ionicons](https://ionic.io/ionicons)           |         A beautiful and round icon set, very easy to use, and 100% free even for commercial usage.         |
+| [Hero Icons](https://heroicons.com/)            |            A 230-pieces icon set, available in outline and solid styles, best used at 24x24 px.            |
+| [Phosphor Icons](https://phosphoricons.com/)    |                Another beautiful, more boxy SVG icon set. Customizable thickness and color.                |
+| [Font Awesome](https://fontawesome.com/)        |         A highly popular icon font, consisting of 1000+ icons spread across countless categories.          |
+| [Line Awesome](https://icons8.com/line-awesome) |  Font awesome (previous icons) looks a bit outdated at this point, so this is a very simple alternative.   |
+| [Iconmonstr](https://iconmonstr.com/)           |  4500+ free and simple icons in 300+ collections, perfect if you need a single icon and not a whole set.   |
+| [\*Icons8 ](https://icons8.com/)                | An incredible premium resource. Has 175,000+ icons, some for free, across countless styles and categories. |
+| [\*Icon 54 ](https://icon54.com/)               |      5000 vector icons for iOS, Android, Websites and Apps. Worth checking out if you have a budget!       |
+| [Icomoon](https://icomoon.io/)                  |          Tool to convert icon fonts to SVG icons and sprites. I use it in my advanced CSS course.          |
+| [Iconjar](http://geticonjar.com/)               |                   A macOS app to organize, search and use all your icons in an easy way.                   |
+
+## FIND DESIGN INSPIRATION
+
+| Title                                                |                                              Description                                               |
+| :--------------------------------------------------- | :----------------------------------------------------------------------------------------------------: |
+| [Land Book](https://land-book.com/)                  |     Showcase of beautiful web design. My essential #1 inspiration resource when I design websites!     |
+| [One Page Love](https://onepagelove.com/inspiration) |                Another gallery of beautiful websites, sorted into multiple categories.                 |
+| [Awwwards](https://www.awwwards.com/websites/)       | The awards of design, creativity and innovation on the internet. This one features more creative desig |
+| [Screelane](https://screenlane.com/)                 |           Inspiration for individual elements and components. Another of my go-to resources!           |
+| [Dribbble](https://dribbble.com/)                    |              Most well-known destination to find design inspiration, not just web design.              |
+
+## POPULAR BLOGS & COMMUNITIES
+
+| Title                                                  |                                              Description                                               |
+| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------: |
+| [CSS Tricks](https://css-tricks.com/)                  | Excellent articles, guides, and even an almanac, all about front-end development, with a focus on CSS. |
+| [Smashing Magazine](https://www.smashingmagazine.com/) |              A very popular web dev blog, writing about all things coding and designing.               |
+| [Codrops](https://tympanus.net/codrops/)               |         Another blog, featuring articles and tutorials about latest web trends and techniques.         |
+| [Hey Designer](https://heydesigner.com/)               |          Curated articles for designers and front-end developers. Available as a newsletter.           |
+| [Front End Front](https://frontendfront.com/)          |        A place where front-end developers can ask questions, share links, and show their work.         |
+
 ## TTTTTT
 
 | Title | Description |
 | :---- | :---------: |
+| []()  |
+| []()  |
+| []()  |
 | []()  |
 | []()  |
 | []()  |
