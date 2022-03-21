@@ -23,6 +23,8 @@ Title | Description
 [CSS easing functions](https://easings.net/) | An amazing collection of easing functions to be used in CSS transitions and animations.
 [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) | A mostly reasonable approach to CSS and Sass
 [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript) | A mostly reasonable approach to CSS-in-JavaScript
+
+
 ## Javascript Resources
 Title | Description
 :-- | :--: |
@@ -36,7 +38,7 @@ Title | Description
 [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react) | A mostly reasonable approach to React and JSX
 
 
-## Javascript Resources
+## FONTS AND TYPOGRAPHY TOOLS
 Title | Description
 :-- | :--: |
 [Google Fonts](https://fonts.google.com/) | The #1 resource for free and easy-to-use webfonts. Has a huge library of fonts.
