@@ -1,7 +1,7 @@
 # Resources
-[HTML](#html-5-resources) | [CSS](#css-resources) | [JS](#javascript-resources) | [Node.js](#) | [Go(Golang)](#)
+[HTML](#html-5-resources) | [CSS](#css-resources) | [JS](#javascript-resources) | [Node.js]() | [Go(Golang)]()
 
-[Fonts](#fonts-resources) | [Color](#) | [Images](#) | [Icons](#) | [Design](#) | [Blogs](#) | [Speed](#) | 
+[Fonts](#fonts-resources) | [Color](#color) | [Images]() | [Icons]() | [Design]() | [Blogs]() | [Speed]() | 
 
 
 This is a resources list for hand-crafting
@@ -49,9 +49,30 @@ Title | Description
 []() | 
 
 
+##Color
+Title | Description
+:-- | :--: |
+[Open Color](https://yeun.github.io/open-color/) | An open-source color scheme, optimized for UI. My go-to resource to choose colors from scratch.
+[Tailwind Colors](https://tailwindcss.com/docs/customizing-colors) | Another excellent and popular set of color pallettes. Great selection of colors for all your projects.
+[Flat UI Colors](https://flatuicolors.com/) | A good starting point for choosing a flat design color for your next project.
+[Material Palette](https://www.materialpalette.com/) | Yet another set of colors, inspired in material design. Generate and download your palette.
+[Colorhunt Palettes](https://www.colorhunt.co/) | Don't know what colors to use for your website? Colorhunt helps you with beautiful color palettes.
+
+[UI Gradients](https://uigradients.com/) | Collection of beautiful color gradients for you to choose from and export to your project.
+[Paletton](http://paletton.com/) | A very popular tool which allows you to create color combinations that play well together.
+[Tint and Shade Generator](https://maketintsandshades.com/) | Easily create lighter and darker versions of any base color. Perfect for hovers, borders and gradients.
+[0to255](https://www.0to255.com/) | Another helpful tool that generates variations of colors.
+[Coolors Contrast Checker](https://coolors.co//) | Tool to check whether two colors have a good contrast ratio. Essential for building accessible websites!
+[]() | 
+[]() | 
+[]() | 
+
+
+
+
 
 Ref by Airbnb, Angela Yu, Jonas Schmedtmann
 
-
+[webdesignrankings](https://www.webdesignrankings.com/) | Your #1 source for analyzing the top web design companies
 
 
