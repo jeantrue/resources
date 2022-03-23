@@ -133,6 +133,27 @@ This is a resources list for hand-crafting
 | []()  |
 | []()  |
 
+## TESTING, OPTIMIZATION AND DEPLOYMENT
+
+| Title                                                                                      |                                             Description                                              |
+| :----------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------: |
+| [HTML Validator by W3C](https://validator.w3.org/)                                         |            Check if your HTML markup is valid and contains no errors. Official W3C tool.             |
+| [CSS Validator by W3C](https://jigsaw.w3.org/css-validator/)                               |              Check if your CSS code is valid and contains no errors. Official W3C tool.              |
+| [Google PageSpeed Insights](https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect) | Easy tool to test your webpage for performance. You can also use it in Chrome DevTools (Lighthouse). |
+| [Squoosh](https://squoosh.app/)                                                            |   Compressing images is the most important performance optimization. This is my #1 tool to do so!    |
+
+| [Optimizilla](https://imagecompressor.com/) | Another tool to compress up to 20 JPEG and PNG images while keeping a good level of quality.
+| [Real favicon Generator](http://realfavicongenerator.net/) | Just upload an image and this tool creates favicons for your website for all platforms.
+| [The Front-End Checklist](https://frontendchecklist.io/) | Extremely popular checklist to check if your website's code is actually ready for deployment
+| [Web Usability Checklist](https://teamsuccess.io/UX) | Another checklist, this one is to catch common usability problems of your website.
+| [Website Speed Optimization Guide](https://kinsta.com/learn/page-speed/) | An excellent guide to optimize your webpage speed. This is something many devs overlook!
+| [Woorank](https://www.woorank.com/) | Get a SEO review of your website to address common issues, and get ahead of your competition.
+| [Google Analytics](https://marketingplatform.google.com/about/analytics/) | Get free insights about website traffic, visitors and conversions. A must for every website.
+| [Netlify](https://www.netlify.com/) | My #1 go-to platform to host static websites. They have a very generous free plan!
+| [\*\*Fathom ](https://usefathom.com/) | A privacy-first alternative to Google Analytics. Doesn't require annoying GDPR cookie notices!
+| [\* Hover ](https://www.hover.com/) | If you need to buy a domain name, this is the place to go. I have all my domains here.
+| []() |
+
 <!-- ## TTTTTT
 
 | Title | Description |
