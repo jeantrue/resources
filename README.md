@@ -2,7 +2,7 @@
 
 [HTML](#html-5-resources) | [CSS](#css-resources) | [JS](#javascript-resources) | [Node.js](#nodejs-development) | [Go](#go-development)
 
-[Fonts](#fonts-and-typography-tools) | [Color](#great-colors-and-tools) | [Images](#images-and-videos) | [Icons](#icons-and-tools) | [Design](#find-design-inspiration) | [Blogs](#popular-blogs--communities) | [Speed] |
+[Fonts](#fonts-and-typography-tools) | [Color](#great-colors-and-tools) | [Images](#images-and-videos) | [Icons](#icons-and-tools) | [Design](#find-design-inspiration) | [Blogs](#popular-blogs--communities) | [Speed](#testing-optimization-and-deployment) |
 
 This is a resources list for hand-crafting
 
@@ -152,7 +152,6 @@ This is a resources list for hand-crafting
 | [Netlify](https://www.netlify.com/) | My #1 go-to platform to host static websites. They have a very generous free plan!
 | [\*\*Fathom ](https://usefathom.com/) | A privacy-first alternative to Google Analytics. Doesn't require annoying GDPR cookie notices!
 | [\* Hover ](https://www.hover.com/) | If you need to buy a domain name, this is the place to go. I have all my domains here.
-| []() |
 
 <!-- ## TTTTTT
 
