@@ -115,14 +115,12 @@ This is a resources list for hand-crafting
 
 ## NODE.JS DEVELOPMENT
 
-| Title | Description |
-| :---- | :---------: |
-| []()  |
-| []()  |
-| []()  |
-| []()  |
-| []()  |
-| []()  |
+| Title                                                                                                                                  |                                            Description                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------: |
+| [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) |          Huge list of best practices for building Node apps. Important for big projects.          |
+| [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs#http)                                                                 | Want to use more packages than you learned in my course? This is a great list to get you started! |
+
+|
 
 ## Go DEVELOPMENT
 
