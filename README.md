@@ -140,8 +140,7 @@ This is a resources list for hand-crafting
 | [HTML Validator by W3C](https://validator.w3.org/)                                         |            Check if your HTML markup is valid and contains no errors. Official W3C tool.             |
 | [CSS Validator by W3C](https://jigsaw.w3.org/css-validator/)                               |              Check if your CSS code is valid and contains no errors. Official W3C tool.              |
 | [Google PageSpeed Insights](https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect) | Easy tool to test your webpage for performance. You can also use it in Chrome DevTools (Lighthouse). |
-| [Squoosh](https://squoosh.app/)                                                            |   Compressing images is the most important performance optimization. This is my #1 tool to do so!    |
-
+| [Squoosh](https://squoosh.app/) |   Compressing images is the most important performance optimization. This is my #1 tool to do so!    |
 | [Optimizilla](https://imagecompressor.com/) | Another tool to compress up to 20 JPEG and PNG images while keeping a good level of quality.
 | [Real favicon Generator](http://realfavicongenerator.net/) | Just upload an image and this tool creates favicons for your website for all platforms.
 | [The Front-End Checklist](https://frontendchecklist.io/) | Extremely popular checklist to check if your website's code is actually ready for deployment
