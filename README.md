@@ -46,8 +46,10 @@ This is a resources list for hand-crafting
 | [Fontsquirrel](https://www.fontsquirrel.com/)                                                                                      |     The best, 100% free fonts for commercial use. Another well-known huge font library.      |
 | [The 100 best free fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380) | List of free fonts, from vintage-inspired typefaces to slab serifs, for a range of projects. |
 | [A Pocket Guide to Typography](http://www.typogui.de/)                                                                             | Amazing resource to learn about typography. Learn typography basics in less than 30 minutes. |
+| [Type-Scale](https://type-scale.com/)                                                                                                                               | https://type-scale.com/
 | []()                                                                                                                               |
-| []()                                                                                                                               |
+
+
 
 ## GREAT COLORS AND TOOLS
 
