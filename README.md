@@ -65,6 +65,12 @@ This is a resources list for hand-crafting
 | [Tint and Shade Generator](https://maketintsandshades.com/)        | Easily create lighter and darker versions of any base color. Perfect for hovers, borders and gradients.  |
 | [0to255](https://www.0to255.com/)                                  |                        Another helpful tool that generates variations of colors.                         |
 | [Coolors Contrast Checker](https://coolors.co//)                   | Tool to check whether two colors have a good contrast ratio. Essential for building accessible websites! |
+| [The color system](https://material.io/design/color/the-color-system.html//)                   | The Material Design color system can help you create a color theme that reflects your brand or style.
+
+ |
+
+
+
 
 ## IMAGES AND VIDEOS
 
