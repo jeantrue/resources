@@ -160,7 +160,8 @@ This is a resources list for hand-crafting
 | [\*\*Fathom ](https://usefathom.com/) | A privacy-first alternative to Google Analytics. Doesn't require annoying GDPR cookie notices!
 | [\* Hover ](https://www.hover.com/) | If you need to buy a domain name, this is the place to go. I have all my domains here.
 
-<!-- ## TTTTTT
+
+ ## TTTTTT
 
 | Title | Description |
 | :---- | :---------: |
@@ -171,7 +172,10 @@ This is a resources list for hand-crafting
 | []()  |
 | []()  |
 
-[webdesignrankings](https://www.webdesignrankings.com/) | Your #1 source for analyzing the top web design companies -->
+[webdesignrankings](https://www.webdesignrankings.com/) | Your #1 source for analyzing the top web design companies 
+
+
+## ETC
 
 
 | [Edit pictures online](https://www.photopea.com/)  | Do you need pictures to write an article? Images can be designed online through this website.
