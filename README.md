@@ -161,7 +161,7 @@ This is a resources list for hand-crafting
 | [\* Hover ](https://www.hover.com/) | If you need to buy a domain name, this is the place to go. I have all my domains here.
 
 
- ## TTTTTT
+ <!-- ## TTTTTT
 
 | Title | Description |
 | :---- | :---------: |
@@ -172,7 +172,7 @@ This is a resources list for hand-crafting
 | []()  |
 | []()  |
 
-[webdesignrankings](https://www.webdesignrankings.com/) | Your #1 source for analyzing the top web design companies 
+[webdesignrankings](https://www.webdesignrankings.com/) | Your #1 source for analyzing the top web design companies  -->
 
 
 ## ETC
