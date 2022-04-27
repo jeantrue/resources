@@ -176,7 +176,8 @@ This is a resources list for hand-crafting
 
 
 ## ETC
-
+| Title | Description |
+| :---- | :---------: |
 
 | [Edit pictures online](https://www.photopea.com/)  | Do you need pictures to write an article? Images can be designed online through this website.
 
