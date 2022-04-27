@@ -178,33 +178,18 @@ This is a resources list for hand-crafting
 ## ETC
 | Title | Description |
 | :---- | :---------: |
-
 | [Edit pictures online](https://www.photopea.com/)  | Do you need pictures to write an article? Images can be designed online through this website.
-
-
-
-| [Edit pictures online](https://www.photopea.com/)  | Do you need pictures to write an article? Images can be designed online through this website.|
-
-| [Royalty-free illustrations](https://www.manypixels.co/gallery)  | 2,500+ royalty-free illustrations to power up your designs.|
-
-| [How fast does your website load?](https://gtmetrix.com/)  | See how your website is performing, reveal why it’s slow, and spot optimization opportunities.|
-
-| [Readme](https://readme.so/editor)  | The easiest way to create a README file, this simple editor allows you to quickly add and customize all the sections you need for your project’s readme.|
-
-| [Remove Image Background](https://www.remove.bg/)  | This website can help us delete the image background 100% automatically and for free.|
-
-| [cdnjs](https://cdnjs.com/)  | Sometimes we need online resources for programming practice. cdnjs can help us find almost all open-source libraries.|
-
-| [DevDocs](https://devdocs.io/)  | This website has documentation for various projects and also supports offline use.|
-
-| [Smart WebP, PNG and JPEG compression](https://tinypng.com/)  | You may often need to compress images, tinypng is free to use and the compressed images have high definition.|
-
-| [Random Image](https://unsplash.com/)  | The internet’s source of freely-usable images. Powered by creators everywhere.|
-
+| [Royalty-free illustrations](https://www.manypixels.co/gallery)  | 2,500+ royalty-free illustrations to power up your designs.
+| [How fast does your website load?](https://gtmetrix.com/)  | See how your website is performing, reveal why it’s slow, and spot optimization opportunities.
+| [Readme](https://readme.so/editor)  | The easiest way to create a README file, this simple editor allows you to quickly add and customize all the sections you need for your project’s readme.
+| [Remove Image Background](https://www.remove.bg/)  | This website can help us delete the image background 100% automatically and for free.
+| [cdnjs](https://cdnjs.com/)  | Sometimes we need online resources for programming practice. cdnjs can help us find almost all open-source libraries.
+| [DevDocs](https://devdocs.io/)  | This website has documentation for various projects and also supports offline use.
+| [Smart WebP, PNG and JPEG compression](https://tinypng.com/)  | You may often need to compress images, tinypng is free to use and the compressed images have high definition.
+| [Random Image](https://unsplash.com/)  | The internet’s source of freely-usable images. Powered by creators everywhere.
 | [JavaScript Regular Expression visualizer](https://jex.im/regulex/#!flags=&re=(((%3F%3D.*%5Cd)((%3F%3D.*%5Ba-z%5D)%7C(%3F%3D.*%5BA-Z%5D)))%7C(%3F%3D.*%5Ba-z%5D)(%3F%3D.*%5BA-Z%5D))%5E%5Ba-zA-Z%5Cd%5D%7B6%2C12%7D%24)  | Are you the kind of person who doesn’t want to learn regex expressions because it looks complicated? Don’t 
-worry, I used to be the same but not anymore. A visualization tool makes regular expressions easier to understand.|
-
-| [Create and share beautiful images for your source code](https://carbon.now.sh/)  | Use Carbon to create and share beautiful images of your source code. It provides a variety of code styles and themes.|
+worry, I used to be the same but not anymore. A visualization tool makes regular expressions easier to understand.
+| [Create and share beautiful images for your source code](https://carbon.now.sh/)  | Use Carbon to create and share beautiful images of your source code. It provides a variety of code styles and themes.
 
 
 
