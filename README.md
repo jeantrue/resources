@@ -173,6 +173,11 @@ This is a resources list for hand-crafting
 
 [webdesignrankings](https://www.webdesignrankings.com/) | Your #1 source for analyzing the top web design companies -->
 
+
+| [Edit pictures online](https://www.photopea.com/)  | Do you need pictures to write an article? Images can be designed online through this website.
+
+
+
 | [Edit pictures online](https://www.photopea.com/)  | Do you need pictures to write an article? Images can be designed online through this website.|
 
 | [Royalty-free illustrations](https://www.manypixels.co/gallery)  | 2,500+ royalty-free illustrations to power up your designs.|
