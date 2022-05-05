@@ -191,17 +191,8 @@ This is a resources list for hand-crafting
 | [Create and share beautiful images for your source code](https://carbon.now.sh/)  | Use Carbon to create and share beautiful images of your source code. It provides a variety of code styles and themes.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## INSPIRATION
+| Title                                                  |                                              Description                                               |
+| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------: |
+| []()  |
+| []()  |
